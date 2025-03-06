@@ -1,5 +1,4 @@
-# My-first-static-web-app
-![image](https://github.com/user-attachments/assets/d19944a4-7fa1-4df0-aba1-c9045504f29c)
+vanilla jawa app
 
 
 [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build JavaScript apps in minutes. Use this repo with the [quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript) to build and customize a new static site.
