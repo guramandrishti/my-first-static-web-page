@@ -1,4 +1,4 @@
-# Vanilla JavaScript App
+# My-first-static-web-app
 ![image](https://github.com/user-attachments/assets/d19944a4-7fa1-4df0-aba1-c9045504f29c)
 
 
